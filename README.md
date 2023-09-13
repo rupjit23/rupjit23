@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 
 
-
+<h1>I am currently pursuing Bachelor of Technology degree in Computer Science Engineering</h1>
 
   - 🔭 I’m currently working on [edu Care](https://rupjitmaity.vercel.app/)
 
