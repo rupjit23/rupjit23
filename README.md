@@ -9,16 +9,16 @@
 
 ### 👨‍🎓 About Me
 - 🎓 Currently pursuing **B.Tech in Computer Science Engineering**
-- 🔭 Working on **[Edu Care](https://rupjitmaity.vercel.app/)**
+- 🔭 Working on **[editra](https://project-editra.vercel.app/)**
 - 💬 Ask me about **React, Node.js, Java, and anything tech-related**
 - 📫 Reach me at **rupjitmaity1@gmail.com**
-- ⚡ Fun fact: *I debug faster with coffee ☕*
+
 
 ---
 
 ### 🌐 Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/rupjit-maity" target="_blank">
+  <a href="https://www.linkedin.com/in/rupjitmaity/" target="_blank">
     <img src="https://img.shields.io/badge/-Rupjit%20Maity-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/>
   </a>
   <a href="mailto:rupjitmaity1@gmail.com">
@@ -29,9 +29,11 @@
 ---
 
 ### 🛠️ Languages & Tools
+### 🛠️ Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,java,mysql,cpp,c,git,redux,tailwind,html,css" />
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,java,mysql,cpp,c,git,redux,tailwind,html,css,socketio,webrtc,supabase" />
 </p>
+
 
 ---
 
@@ -44,16 +46,4 @@
 
 ---
 
-### 🚀 Quote of the Day
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote"/>
-</p>
 
----
-
-### 🎉 Fun Badges
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rupjit23&style=for-the-badge&color=blue" alt="views"/>
-  <img src="https://img.shields.io/github/followers/rupjit23?label=Followers&style=for-the-badge&color=brightgreen" />
-  <img src="https://img.shields.io/github/stars/rupjit23?style=for-the-badge&color=yellow" />
-</p>
