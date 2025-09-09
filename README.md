@@ -28,7 +28,7 @@
 
 ---
 
-### 🛠️ Languages & Tools
+
 ### 🛠️ Languages & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,java,mysql,cpp,c,git,redux,tailwind,html,css,socketio,webrtc,supabase" />
@@ -39,8 +39,7 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rupjit23&show_icons=true&theme=tokyonight" alt="stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rupjit23&theme=tokyonight" alt="streak"/>
+ 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rupjit23&layout=compact&theme=tokyonight" alt="langs"/>
 </p>
 
